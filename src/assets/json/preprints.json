@@ -1,0 +1,12 @@
+[
+  {
+    "free": true,
+    "name": "Convexity via Weak Distributive Laws",
+    "authors": [
+      "Filippo Bonchi",
+      "Alessio Santamaria"
+    ],
+    "doi": "10.48550/arXiv.2108.10718",
+    "info": "We study the canonical weak distributive law δ of the powerset monad over the semimodule monad for a certain class of semirings containing, in particular, positive semifields. For this subclass we characterise δ as a convex closure in the free semimodule of a set. Using the abstract theory of weak distributive laws, we compose the powerset and the semimodule monads via δ, obtaining the monad of convex subsets of the free semimodule."
+  }
+]
