@@ -1,7 +1,7 @@
 <template lang="pug">
 q-timeline-entry.paper
   template(v-slot:title)
-    a.name(v-if='href' :href='href') {{name}}
+    a.name(v-if='href' :href='href' target='blank' rel='noopener noreferrer') {{name}}
     span.name(v-else) {{name}}
   template(v-slot:subtitle) {{year}}
   p
@@ -17,7 +17,7 @@ q-timeline-entry.paper
     template(v-if='doi')
       | DOI:
       |
-      a(:href='doiHref') {{doi}}
+      a(:href='doiHref' target='blank' rel='noopener noreferrer') {{doi}}
   p
     em {{journal}}
   template(v-for='item in info') 
