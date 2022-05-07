@@ -19,6 +19,11 @@ q-timeline-entry.paper
       |
       a(:href='doiHref' target='blank' rel='noopener noreferrer') {{doi}}
   p
+    template(v-if='link')
+      | LINK:
+      |
+      a(:href='linkHref' target='blank' rel='noopener noreferrer') {{link}}
+  p
     em {{journal}}
   template(v-for='item in info') 
    p(v-html='item')
@@ -47,6 +52,8 @@ export default defineComponent({
     const doi = computed(() => props.paper.doi)
     const doiHref = computed(() => `https://doi.org/${doi.value}`)
     const href = computed(() => free.value ? file.value : doi.value ? doiHref.value : '')
+    const link = computed(() => props.paper.link)
+    const linkHref = computed(() => `http://${link.value}`)
     const info = computed(() => Array.isArray(props.paper.info) ? props.paper.info : [props.paper.info])
     return {
       free,
@@ -58,6 +65,8 @@ export default defineComponent({
       doi,
       doiHref,
       href,
+      link,
+      linkHref,
       info
     }
   }

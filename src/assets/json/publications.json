@@ -25,7 +25,6 @@
     "journal": "9th Conference on Algebra and Coalgebra in Computer Science (CALCO 2021).",
     "year": 2021,
     "doi": "10.4230/LIPIcs.CALCO.2021.10",
-    "link": "https://drops.dagstuhl.de/opus/volltexte/2021/15365/",
     "info": "We study the relationship between cartesian bicategories and a specialisation of Lawvere’s hyperdoctrines, namely elementary existential doctrines. Both provide different ways of abstracting the structural properties of logical systems: the former in algebraic terms based on a string diagrammatic calculus, the latter in universal terms using the fundamental notion of adjoint functor. We prove that these two approaches are related by an adjunction, which can be strengthened to an equivalence by imposing further constraints on doctrines."
   },
   {
@@ -38,7 +37,6 @@
     "journal": "24th International Conference on the Foundations of Software Science and Computation Structures (FoSSaCS 2021)",
     "year": 2021,
     "doi": "10.1007/978-3-030-71995-1_6",
-    "link": "https://arxiv.org/abs/2012.14778",
     "info": "We show how to compose the powerset monad with the S-semimodule monad, for a class of semirings S, by means of a canonical weak distributive law. This yields a new monad closely related to the monad of convex subsets introduced by Jacobs. We prove that the restriction of the composite monad to finitely generated convex subsets is presented by an algebraic theory combining semilattices and semimodules where sums and scalar products distribute over joins."
   },
   {
@@ -52,7 +50,6 @@
     "journal": "Journal of Pure and Applied Algebra (Volume 225, Issue 10)",
     "year": "2021",
     "doi": "10.1016/j.jpaa.2021.106689",
-    "link": "https://arxiv.org/abs/2007.07576",
     "info": "We independently rediscover a theorem by Petric, that gives a sufficient and essentially necessary condition for two dinatural transformations to compose: acyclicity of certain graphs, which capture the dependency of the variables of the transformations. We use this to define a category of partially dinatural transformations, which are families of morphisms that are dinatural only in some of their variables; their associated graph is used to keep track of the dinaturality properties of their compositions. We also define a novel notion of horizontal composition, which we believe will yield a full calculus of substitution for dinatural transformations as sought by Kelly in the early 1970's. Most of the paper is distilled from my PhD thesis."
   },
   {
