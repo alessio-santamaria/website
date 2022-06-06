@@ -1,6 +1,6 @@
 [  
   {
-    "free": false,
+    "free": true,
     "name": "Bisimulation as a Logical Relation",
     "authors": [
       "Claudio Hermida",
