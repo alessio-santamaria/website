@@ -13,7 +13,8 @@
     q-timeline-entry(subtitle='Apr 2018')
       template(v-slot:title)
         TimelineTitle(main='Postgraduate Teacher of the Year Award' rest='University of Bath')
-      | The Award is given by the University of Bath Students’ Union every year since 2018. Quotes from the nominations include: “Alessio goes out of his way to explain each concept that students must learn, providing multiple examples and ensuring that students understand before moving on” and “Without his astounding tutorials, I doubt I could have understood half of the course materials I do now”.
+      a(href='https://www.thesubath.com/academicreps/awards/2018//' target='blank' rel='noopener noreferrer') The Award
+      |  is given by the University of Bath Students’ Union every year since 2018. Quotes from the nominations include: “Alessio goes out of his way to explain each concept that students must learn, providing multiple examples and ensuring that students understand before moving on” and “Without his astounding tutorials, I doubt I could have understood half of the course materials I do now”.
 </template>
 
 <script>
