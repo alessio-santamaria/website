@@ -2,6 +2,8 @@
 .pad-lr
   h4 Peer-reviewed Papers and Participation in Programme Committees
   ul
+    li I reviewed a paper submitted to the Journal of Pure and Applied Algebra in 2022.
+    li I reviewed a paper submitted to CSL2023 conference in 2022.
     li I reviewed a paper submitted to CSL2022 conference in 2021.
     li I reviewed a paper submitted to Logical Methods in Computer Science journal in 2021.
     li I reviewed a paper submitted to CONCUR2020 conference in 2020.
