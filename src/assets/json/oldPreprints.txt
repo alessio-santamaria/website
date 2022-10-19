@@ -1,0 +1,11 @@
+{
+    "free": true,
+    "name": "Tape Diagrams for Rig Categories with Finite Biproducts",
+    "authors": [
+     "Filippo Bonchi",
+     "Alessandro Di Giorgio",
+     "Alessio Santamaria"
+    ],
+    "link": "eprints.adm.unipi.it/2404/",
+    "info": "Rig categories with finite biproducts are categories with two monoidal products, where one is a biproduct and the other distributes over it. In this report we present tape diagrams, a sound and complete diagrammatic language for rig categories with finite biproducts, which can be thought intuitively as string diagrams of string diagrams."
+  }
