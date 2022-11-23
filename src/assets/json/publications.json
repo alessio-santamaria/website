@@ -1,6 +1,18 @@
 [  
   {
     "free": true,
+    "name": "Convexity via Weak Distributive Laws",
+    "authors": [
+      "Filippo Bonchi",
+      "Alessio Santamaria"
+    ],
+    "journal": "Logical Methods in Computer Science (Volume 18, Issue 4)",
+    "year": 2022,
+    "doi": "10.46298/lmcs-18(4:8)2022",
+    "info": "Journal version of `Combining Semilattices and Semimodules'. On top of providing proofs and more detailed examples, we show how a natural candidate for a weak distributive law of the finite powerset monad over the semimodule monad fails to work, thus justifying our approach via the full powerset monad. Moreover, we show the existence of a weak extension of the powerset functor to Rel that is not locally monotone, proving then that there can be various weak distributive laws of the powerset monad over an arbitrary monad."
+  },
+  {
+    "free": true,
     "name": "Bisimulation as a Logical Relation",
     "authors": [
       "Claudio Hermida",

@@ -9,15 +9,5 @@
     ],
     "doi": "10.48550/arXiv.2210.09950",
     "info": "Rig categories with finite biproducts are categories with two monoidal products, where one is a biproduct and the other distributes over it. In this work we present tape diagrams, a sound and complete diagrammatic language for these categories, that can be intuitively thought as string diagrams of string diagrams. We test the effectiveness of our approach against the positive fragment of Tarski's calculus of relations."
-  },
-  {
-    "free": true,
-    "name": "Convexity via Weak Distributive Laws",
-    "authors": [
-      "Filippo Bonchi",
-      "Alessio Santamaria"
-    ],
-    "doi": "10.48550/arXiv.2108.10718",
-    "info": "We study the canonical weak distributive law δ of the powerset monad over the semimodule monad for a certain class of semirings containing, in particular, positive semifields. For this subclass we characterise δ as a convex closure in the free semimodule of a set. Using the abstract theory of weak distributive laws, we compose the powerset and the semimodule monads via δ, obtaining the monad of convex subsets of the free semimodule."
   }
 ]

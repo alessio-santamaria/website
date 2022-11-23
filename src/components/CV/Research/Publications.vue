@@ -3,10 +3,20 @@
   h4 Publications
   ul
     li
-      | Hermida, C., Reddy, U., Robinson, E., and Santamaria, A.
+      | Bonchi, F., Di Giorgio, A., and Santamaria, A., 2023.
+      |
+      em Deconstructing the Calculus of Relations with Tape Diagrams
+      | . 50th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2023).
+    li
+      | Bonchi, F., and Santamaria, A., 2022.
+      | 
+      em Convexity via Weak Distributive Laws
+      | . Logical Methods in Computer Science, Volume 18, Issue 4 (special issue devoted to the best FoSSaCS 2021 papers).
+    li
+      | Hermida, C., Reddy, U., Robinson, E., and Santamaria, A., 2022.
       |
       em Bisimulation as a Logical Relation
-      | . Mathematical Structures in Computer Science, 2022.
+      | . Mathematical Structures in Computer Science.
     li
       | Bonchi, F., Seeber, J., Sobocinski, P., and Santamaria, A., 2021.
       |
