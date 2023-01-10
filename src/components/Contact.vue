@@ -8,16 +8,18 @@ Tabs(v-model='tab')
 TabPanels(v-model='tab')
   q-tab-panel.pad-tlr(name='mail')
     p
-      | Dipartimento di Informatica
+      | Department of Informatics
       br
-      | Università degli Studi di Pisa
+      | University of Sussex
       br
-      | Largo B. Pontecorvo 3, 56127 Pisa
+      | Falmer, Brighton
       br
-      | Italy
+      | BN1 9QJ
+      br
+      | United Kingdom
   q-tab-panel.pad-tlr(name='email')
     p
-      Email(address='alessio.santamaria@di.unipi.it')
+      Email(address='A.Santamaria@sussex.ac.uk')
 </template>
 
 <script>

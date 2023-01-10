@@ -22,9 +22,9 @@ q-page.papers(:style-fn='pageStyle')
         q-tab(name='publications' icon='las la-file-alt')
           | Publications
           Quantity {{publications.length}}
-        q-tab(name='preprints' icon='las la-file-download')
+        //q-tab(name='preprints' icon='las la-file-download')
           | Preprints
-          Quantity {{preprints.length}}
+          Quantity {{preprints.length}} 
         q-tab(name='dissertations' icon='las la-book')
           | Dissertations
           Quantity {{dissertations.length}}

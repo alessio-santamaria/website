@@ -2,10 +2,22 @@
 .pad-lr
   h4 Conferences and Presentations
   Timeline
+    q-timeline-entry(subtitle='Jan 2023')
+      template(v-slot:title)
+        TimelineTitle(main='Attendance' rest='Boston, USA')
+      | POPL 2023
+    q-timeline-entry(subtitle='Dec 2022')
+      template(v-slot:title)
+        TimelineTitle(main='Attendance' rest='Pisa, Italy')
+      | Third ItaCa workshop
     q-timeline-entry(subtitle='Jun 2022')
       template(v-slot:title)
         TimelineTitle(main='Presentation' rest='Bath, UK')
       | Workshop in New Ideas on Effects, Types, and Sharing
+    q-timeline-entry(subtitle='Dec 2021')
+      template(v-slot:title)
+        TimelineTitle(main='Attendance' rest='Genoa, Italy')
+      | Second ItaCa workshop
     q-timeline-entry(subtitle='Aug 2021')
       template(v-slot:title)
         TimelineTitle(main='Presentation' rest='Salzburg, Austria')

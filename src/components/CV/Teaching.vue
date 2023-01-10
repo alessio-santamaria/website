@@ -2,6 +2,9 @@
 .pad-lr
   h3 Teaching Experience
   Timeline
+    q-timeline-entry(subtitle='2023')
+      template(v-slot:title)
+        TimelineTitle(main='Data Structures and Algorithms Lecturer' rest='University of Sussex')
     q-timeline-entry(subtitle='2021')
       template(v-slot:title)
         TimelineTitle(main='Foundations of Computing Lecturer' rest='University of Pisa')

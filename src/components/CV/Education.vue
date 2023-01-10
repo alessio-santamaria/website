@@ -8,7 +8,7 @@
       | Thesis:
       |
       em Towards a Godement Calculus for Dinatural Transformations
-      | , examined by Prof Alex Simpson and Dr Willem Heijltjes. The main contribution is to provide a solution for the compositionality problem of dinatural transformations. Supervisors: Prof Guy McCusker, Dr Alessio Guglielmi. Funded by an EPSRC Doctoral Training Partnership studentship for 3.5 years.
+      | , examined by Prof Alex Simpson and Dr Willem Heijltjes. The main contribution is to provide a solution for the compositionality problem of dinatural transformations. Supervisors: Prof Guy McCusker, Dr Alessio Guglielmi. Funded by a University Research Studentship Award for 3.5 years, paying all fees, providing a training support fund and a living allowance.
     q-timeline-entry(subtitle='2013-2015')
       template(v-slot:title)
         TimelineTitle(main="Master's Degree (Laurea Magistrale) in Mathematics" rest='Università di Genova')

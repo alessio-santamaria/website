@@ -9,7 +9,7 @@
     "year": 2019,
     "journal": "PhD thesis",
     "info": ["I introduce the notion of graph of a transformation in many variables, and use it to find a sufficient and essentially necessary condition for two dinatural transformations to compose: the acyclicity of their composite graph. Also, I study a novel definition of horizontal composition for dinatural transformations, that generalises the well known version for natural transformations. Finally, I put together the two operations to form a category of partial dinatural transformations as well as a category of formal substitutions, leading the foundations to achieving Kelly's project for a 'tidy calculus of substitution' for a proper abstract description of coherence problems.",
-    "<em>Nota Bene</em>. Up until September 2019, I was not aware of Zoran Petric’s paper “G-dinaturality” (Annals of Pure and Applied Logic 122.1, 2003). In there, Theorem 2.2 is the same of Theorems 1.38 and 1.63 in the thesis, which solve the compositionality problem of dinatural transformations. As far as I understand, the argument carried by me and by Petric is the same; the main difference relies in the fact that Petric’s proof is purely syntactic whereas mine is more semantic, especially for what concerns Theorem 1.38, since it translates the matter into a reachability problem for certain Petri Nets. Chapter 1 of the thesis, therefore, consists in an independent rediscovery of Petric’s theorem and Theorems 1.38 and 1.63 are not, as originally claimed, novel results."
+    "<em>Nota Bene</em>. Up until September 2019, I was not aware of Zoran Petric's paper “G-dinaturality” (Annals of Pure and Applied Logic 122.1, 2003). In there, Theorem 2.2 is the same of Theorems 1.38 and 1.63 in the thesis, which solve the compositionality problem of dinatural transformations. As far as I understand, the argument carried by me and by Petric is the same; the main difference relies in the fact that Petric's proof is purely syntactic whereas mine is more semantic, especially for what concerns Theorem 1.38, since it translates the matter into a reachability problem for certain Petri Nets. Chapter 1 of the thesis, therefore, consists in an independent rediscovery of Petric's theorem and Theorems 1.38 and 1.63 are not, as originally claimed, novel results."
     ]
   },
   {
@@ -19,7 +19,7 @@
       "Alessio Santamaria"
     ],
     "year": 2015,
-    "journal":"Masters' dissertation",
+    "journal":"Master's dissertation",
     "info": "I study a Stone duality-like property that would link algebras for the double-power monad using the Sierpinski space as base over the category of Equilogical Spaces. To do this I make heavy use of the internal language of cartesian closed categories. Unfortunately, the proof of Theorem 3.13 contains a mistake, that was found by Dr. Giulia Frosoni, therefore all the following reults in the dissertation are not proved, as they rely on Theorem 3.13. This has no effects on the paper 'Frames and Topological Algebras for a Double-Power Monad', since it was written after finding this mistake."
   },
   {

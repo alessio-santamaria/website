@@ -6,7 +6,7 @@
       | Bonchi, F., Di Giorgio, A., and Santamaria, A., 2023.
       |
       em Deconstructing the Calculus of Relations with Tape Diagrams
-      | . 50th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2023).
+      | . Proceedings of the ACM on Programming Languages, Volume 7, Issue POPL, Article 64.
     li
       | Bonchi, F., and Santamaria, A., 2022.
       | 
@@ -16,7 +16,7 @@
       | Hermida, C., Reddy, U., Robinson, E., and Santamaria, A., 2022.
       |
       em Bisimulation as a Logical Relation
-      | . Mathematical Structures in Computer Science.
+      | . Mathematical Structures in Computer Science, Volume 32, Special Issue 4: The Power Festschrift.
     li
       | Bonchi, F., Seeber, J., Sobocinski, P., and Santamaria, A., 2021.
       |

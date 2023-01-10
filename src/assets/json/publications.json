@@ -1,6 +1,19 @@
 [  
   {
     "free": true,
+    "name": "Deconstructing the Calculus of Relations with Tape Diagrams",
+    "authors": [
+      "Filippo Bonchi",
+      "Alessandro Di Giorgio",
+      "Alessio Santamaria"
+    ],
+    "journal": "Proceedings of the ACM on Programming Languages, Volume 7, Issue POPL, Article 64",
+    "year": 2023,
+    "doi": "10.1145/3571257",
+    "info": "Rig categories with finite biproducts are categories with two monoidal products, where one is a biproduct and the other distributes over it. In this work we present tape diagrams, a sound and complete diagrammatic language for these categories, that can be intuitively thought as string diagrams of string diagrams. We test the effectiveness of our approach against the positive fragment of Tarski's calculus of relations."
+  },
+  {
+    "free": true,
     "name": "Convexity via Weak Distributive Laws",
     "authors": [
       "Filippo Bonchi",
@@ -20,7 +33,7 @@
       "Edmund Robinson",
       "Alessio Santamaria"
     ],
-    "journal": "Mathematical Structures in Computer Science, 2022",
+    "journal": "Mathematical Structures in Computer Science, Volume 32, Special Issue 4: The Power Festschrift",
     "year": 2022,
     "doi": "10.1017/S0960129522000020",
     "info": "We investigate how various forms of bisimulation can be characterised using the technology of logical relations. The approach taken is that each form of bisimulation corresponds to an algebraic structure derived from a transition system, and the general result is that a relation R between two transition systems on state spaces S and T is a bisimulation if and only if the derived algebraic structures are in the logical relation automatically generated from R. We show that this approach works for the original Park-Milner bisimulation and that it extends to weak bisimulation, and branching and semi-branching bisimulation. The paper concludes with a discussion of probabilistic bisimulation, where the situation is slightly more complex, partly owing to the need to encompass bisimulations that are not just relations."
