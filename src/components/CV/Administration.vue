@@ -13,7 +13,7 @@
     q-timeline-entry(subtitle='2017–2018')
       template(v-slot:title)
         TimelineTitle(main='Mathematical Foundations Seminar organiser')
-      | I organised the seminars for my research group, Mathematical Foundations, in the department. They happen weekly and involve both students and staff, including external speakers.
+      | I organised the seminars for my research group, Mathematical Foundations, in the department. They happened weekly and involved both students and staff, including external speakers.
 </template>
 
 <script>

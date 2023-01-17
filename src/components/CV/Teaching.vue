@@ -5,6 +5,7 @@
     q-timeline-entry(subtitle='2023')
       template(v-slot:title)
         TimelineTitle(main='Data Structures and Algorithms Lecturer' rest='University of Sussex')
+      | I am the assessment and module convenor of the Data Structures and Algorithms course, which enrols about 240 students.
     q-timeline-entry(subtitle='2021')
       template(v-slot:title)
         TimelineTitle(main='Foundations of Computing Lecturer' rest='University of Pisa')
