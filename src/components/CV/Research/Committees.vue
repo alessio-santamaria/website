@@ -2,6 +2,7 @@
 .pad-lr
   h4 Peer-reviewed Papers and Participation in Programme Committees
   ul
+    li I reviewed a paper submitted to the FSCD2023 conference.
     li I was part of the local organising committe of the Third ItaCa workshop.
     li I reviewed a paper submitted to the Journal of Pure and Applied Algebra in 2022.
     li I reviewed a paper submitted to CSL2023 conference in 2022.
