@@ -2,6 +2,12 @@
 .pad-lr
   h4 Conferences and Presentations
   Timeline
+    q-timeline-entry(subtitle='Jul 2023')
+      template(v-slot:title)
+        TimelineTitle(main='Poster Presentation' rest='Louvaine-La-Neuve, Belgium')
+      | CT2023 (
+      a(href='https://alessio-santamaria.com/pdf/CT2023.pdf' target='blank' rel='noopener noreferrer') poster
+      | )
     q-timeline-entry(subtitle='Jan 2023')
       template(v-slot:title)
         TimelineTitle(main='Attendance' rest='Boston, USA')
