@@ -1,5 +1,5 @@
 <template lang="pug">
-.pad-tlr
+.pad-lr
   h4 Publications
   ul
     li
