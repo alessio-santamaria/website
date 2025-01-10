@@ -1,6 +1,21 @@
 [  
   {
     "free": true,
+    "name": "Logical Predicates in Higher-Order Mathematical Operational Semantics",
+    "authors": [
+      "Sergey Goncharov", 
+      "Alessio Santamaria", 
+      "Lutz Schröder",
+      "Stelios Tsampas",
+      "Henning Urbat"
+    ],
+    "journal": "Foundations of Software Science and Computation Structures (FoSSaCS 2024)",
+    "year": 2024,
+    "doi": "10.1007/978-3-031-57231-9_3",
+    "info": "We present a systematic approach to logical predicates based on universal coalgebra and higher-order abstract GSOS, thus making a first step towards a unifying theory of logical relations. We start with the observation that logical predicates are special cases of coalgebraic invariants on mixed-variance functors. We then introduce the notion of a locally maximal logical refinement of a given predicate, with a view to enabling inductive reasoning, and identify sufficient conditions on the overall setup in which locally maximal logical refinements canonically exist. Finally, we develop induction-up-to techniques that simplify inductive proofs via logical predicates on systems encoded as (certain classes of) higher-order GSOS laws by identifying and abstracting away from their boiler-plate part."
+  },
+  {
+    "free": true,
     "name": "Deconstructing the Calculus of Relations with Tape Diagrams",
     "authors": [
       "Filippo Bonchi",

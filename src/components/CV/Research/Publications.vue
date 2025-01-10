@@ -3,6 +3,11 @@
   h4 Publications
   ul
     li
+      | Goncharov, S., Santamaria, A., Schröder, L., Tsampas, S. and Urbat, H., 2024. 
+      |
+      em Logical Predicates in Higher-Order Mathematical Operational Semantics
+      | . Foundations of Software Science and Computation Structures (FoSSaCS 2024).
+    li
       | Bonchi, F., Di Giorgio, A., and Santamaria, A., 2023.
       |
       em Deconstructing the Calculus of Relations with Tape Diagrams
@@ -26,7 +31,7 @@
       | Bonchi, F. and Santamaria, A., 2021.
       |
       em Combining Semilattices and Semimodules
-      | . 24th International Conference in Foundations of Software Science and Computation Structures (FOSSACS 2021).
+      | . 24th International Conference in Foundations of Software Science and Computation Structures (FoSSaCS 2021).
     li
       | McCusker, G. and Santamaria, A., 2021.
       |

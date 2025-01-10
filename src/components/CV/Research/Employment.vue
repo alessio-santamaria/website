@@ -4,7 +4,7 @@
   Timeline
     q-timeline-entry(subtitle='Jan 2023-')
       template(v-slot:title)
-        TimelineTitle(main='Lecturer' rest='University of Sussex')
+        TimelineTitle(main='Lecturer (Assistant Professor)' rest='University of Sussex')
       | Part of the Foundation of Software Systems research group. This permanent position involves teaching and research in equal proportions.
     q-timeline-entry(subtitle='Mar 2020-Dec 2022')
       template(v-slot:title)

@@ -2,7 +2,12 @@
 .pad-lr
   h4 Peer-reviewed Papers and Participation in Programme Committees
   ul
-    li I reviewed a paper submitted to the FSCD2023 conference.
+    li I reviewed a paper submitted to POPL2025 conference in 2024.
+    li I reviewed a paper submitted to the Fundamenta Informaticae journal in 2024.
+    li I reviewed a paper submitted to the CSL2024 conference in 2023.
+    li I reviewed a paper submitted to the Journal of Pure and Applied Algebra in 2023.
+    li I reviewed a paper submitted to the ACM Transactions on Quantum Computing journal in 2023.
+    li I reviewed a paper submitted to the FSCD2023 conference in 2023.
     li I was part of the local organising committe of the Third ItaCa workshop.
     li I reviewed a paper submitted to the Journal of Pure and Applied Algebra in 2022.
     li I reviewed a paper submitted to CSL2023 conference in 2022.

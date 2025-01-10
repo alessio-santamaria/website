@@ -2,10 +2,13 @@
 .pad-lr
   h3 Teaching Experience
   Timeline
-    q-timeline-entry(subtitle='2023')
+    q-timeline-entry(subtitle='2023- ')
       template(v-slot:title)
-        TimelineTitle(main='Data Structures and Algorithms Lecturer' rest='University of Sussex')
-      | I am the assessment and module convenor of the Data Structures and Algorithms course, which enrols about 240 students.
+        TimelineTitle(main='Lecturer (Assistant Professor) in Computer Science' rest='University of Sussex')
+      ul
+        li Data Structures and Algorithms (1st year, up to 275 students, sole convenor)
+        li Topics in Computer Science (MSc, up to 55 students, part of team of convenors)
+        li Databases (2nd year, up to 364 students, co-convenor)
     q-timeline-entry(subtitle='2021')
       template(v-slot:title)
         TimelineTitle(main='Foundations of Computing Lecturer' rest='University of Pisa')

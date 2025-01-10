@@ -2,6 +2,10 @@
 .pad-lr
   h4 Conferences and Presentations
   Timeline
+    q-timeline-entry(subtitle='Jun 2024')
+      template(v-slot:title)
+        TimelineTitle(main='Presentation' rest='Sussex (Brighton), UK')
+      | Foundations of Software System thery group seminar 
     q-timeline-entry(subtitle='Jul 2023')
       template(v-slot:title)
         TimelineTitle(main='Poster Presentation' rest='Louvain-la-Neuve, Belgium')
