@@ -2,6 +2,8 @@
 .pad-lr
   h4 Peer-reviewed Papers and Participation in Programme Committees
   ul
+    li I reviewed a paper submitted to MFPS2025 conference in 2025.
+    li I reviewed a paper submitted to LICS2025 conference in 2025.
     li I reviewed a paper submitted to POPL2025 conference in 2024.
     li I reviewed a paper submitted to the Fundamenta Informaticae journal in 2024.
     li I reviewed a paper submitted to the CSL2024 conference in 2023.
