@@ -2,6 +2,10 @@
 .pad-lr
   h3 Administrative Experience
   Timeline
+    q-timeline-entry(subtitle='2024-')
+      template(v-slot:title)
+        TimelineTitle(main='Academic Advisor')
+      | I am the first point of contact for 79 Computer Science students (approximately one third of a cohort) who started their degree in 2024/25.
     q-timeline-entry(subtitle='2018–2019')
       template(v-slot:title)
         TimelineTitle(main='Departmental Seminars organiser')

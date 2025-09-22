@@ -6,9 +6,11 @@
       template(v-slot:title)
         TimelineTitle(main='Lecturer (Assistant Professor) in Computer Science' rest='University of Sussex')
       ul
-        li Data Structures and Algorithms (1st year, up to 275 students, sole convenor)
-        li Topics in Computer Science (MSc, up to 55 students, part of team of convenors)
+        li Data Structures and Algorithms (1st year, up to 277 students, sole convenor)
+        li Design and Analysis of Algorithms (2nd year, up to 328 students, co-convenor)
         li Databases (2nd year, up to 364 students, co-convenor)
+        li Limits of Computation – Computational Complexity (3rd year, up to 129 students, part of team of convenors)
+        li Topics in Computer Science – Semantics of Programming Languages (MSc, up to 55 students, part of team of convenors)
     q-timeline-entry(subtitle='2021')
       template(v-slot:title)
         TimelineTitle(main='Foundations of Computing Lecturer' rest='University of Pisa')
