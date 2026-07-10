@@ -2,6 +2,12 @@
 .pad-lr
   h3 Awards
   Timeline
+    q-timeline-entry(subtitle='Mar 2026')
+      template(v-slot:title)
+        TimelineTitle(main='Inclusive Education Nomination' rest='Sussex Awards')
+      | My colleague 
+      a(href='https://philipsaville.co.uk') Philip Saville
+      | and I were nominated for the Inclusive Education category: "These guys truly helped me settle into my Sussex career by creating a welcoming atmosphere in their Program Analysis module. I had so many questions ranging from subject specific to niche campus based. They were always willing to listen to questions and provide sufficient, concise answers, only finishing when they were aware I understood. We need more teachers like them!".
     q-timeline-entry(subtitle='Aug 2021')
       template(v-slot:title)
         TimelineTitle(main='Best paper award' rest='FoSSaCS 2021')
